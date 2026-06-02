@@ -9,3 +9,26 @@
     margin: 10% auto;
     padding: 70px;
 }
+.produtos{
+    display: flex;
+    justify-content: center;
+}
+.produtos img{
+    height: 180px;
+    width: 200px;
+    border-radius: 10px;
+}
+.produtos img:hover{
+    transform: scale(1.2);
+}
+.container{
+ 
+}
+.titulo_prod{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4f4f4f;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}

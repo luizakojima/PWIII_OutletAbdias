@@ -19,14 +19,25 @@
     border-radius: 10px;
 }
 .produtos img:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 .titulo_prod{
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     color: #4f4f4f;
-    padding: 10px;
+    padding-top: 10px;  
     display: flex;
     justify-content: center;
+    text-align: center;
+    font-size: 11px;
+}
+
+.texto_prod{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4f4f4f;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 11px;
 }
